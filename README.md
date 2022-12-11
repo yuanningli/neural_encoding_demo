@@ -8,5 +8,5 @@ Reference:
 [2] Li, Y., Anumanchipalli, G. K., Mohamed, A., Lu, J., Wu, J., & Chang, E. F. (2022). Dissecting neural computations of the human auditory pathway using deep neural networks for speech. bioRxiv. (DOI: https://doi.org/10.1101/2022.03.14.484195)
 
 
-Copyright @ Yuanning Li
+Copyright @ Yuanning Li,
 ShanghaiTech University
