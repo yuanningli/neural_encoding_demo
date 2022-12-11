@@ -1,5 +1,5 @@
-# neural_encoding_demo
-Demo code and sample data for neural encoding analysis of speech perception using ECoG recordings.
+# neural encoding demo
+Demo code and sample data for neural encoding analysis of speech perception using ECoG recordings. The code and data are from the following manuscripts:
 
 Reference:
 
